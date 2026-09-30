@@ -1,0 +1,4302 @@
+[
+  {
+    "id": 1,
+    "hip_no": "1",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167595&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 2,
+    "hip_no": "2",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161659&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 3,
+    "hip_no": "2",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Zo8FHldbd_g&list=PLI7s0xztyZRU&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 4,
+    "hip_no": "3",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159316&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 5,
+    "hip_no": "4",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165297&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 6,
+    "hip_no": "4",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=tMQxG0Jwtyo&list=PLE2GLfc5ifGA&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 7,
+    "hip_no": "5",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158009&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 8,
+    "hip_no": "6",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165541&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 9,
+    "hip_no": "6",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=gFe6VjjDv6o&list=PLE2GLfc5ifGA&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 10,
+    "hip_no": "7",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161660&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 11,
+    "hip_no": "7",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=pzZyd9uWSuY&list=PLI7s0xztyZRU&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 12,
+    "hip_no": "8",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159765&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 13,
+    "hip_no": "9",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165538&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 14,
+    "hip_no": "9",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=1RLMcdivRVg&list=PLE2GLfc5ifGA&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 15,
+    "hip_no": "13",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155464&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 16,
+    "hip_no": "14",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161756&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 17,
+    "hip_no": "14",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=JfxWhoIokdU&list=PLI7s0xztyZRU&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 18,
+    "hip_no": "15",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160962&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 19,
+    "hip_no": "16",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159184&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 20,
+    "hip_no": "17",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1157537&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 21,
+    "hip_no": "18",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163846&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 22,
+    "hip_no": "18",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=8zhw0k4hyDI&list=PLWwtTji4hY7E&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 23,
+    "hip_no": "19",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165116&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 24,
+    "hip_no": "19",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=oYJfCMJty0s&list=PLWwtTji4hY7E&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 25,
+    "hip_no": "20",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164476&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 26,
+    "hip_no": "23",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155997&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 27,
+    "hip_no": "24",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165032&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 28,
+    "hip_no": "24",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=6rbpLEzkVYc&list=PLQ7yDvp2ZTeM&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 29,
+    "hip_no": "25",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156044&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 30,
+    "hip_no": "26",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161651&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 31,
+    "hip_no": "26",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=OE-agzlj0mk&list=PLI7s0xztyZRU&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 32,
+    "hip_no": "27",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158762&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 33,
+    "hip_no": "28",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167200&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 34,
+    "hip_no": "28",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=C23ok3puuNw&list=PLbhMaCt-i5F4&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 35,
+    "hip_no": "29",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167313&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 36,
+    "hip_no": "29",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ldRJ5et15Bg&list=PLbhMaCt-i5F4&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 37,
+    "hip_no": "30",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160047&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 38,
+    "hip_no": "31",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159668&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 39,
+    "hip_no": "31",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ozXzXmk8cHM&list=PLL2gs-4HeOuY&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 40,
+    "hip_no": "32",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160320&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 41,
+    "hip_no": "33",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159548&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 42,
+    "hip_no": "34",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168912&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 43,
+    "hip_no": "34",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=xH3RwZLZZSE&list=PLbhMaCt-i5F4&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 44,
+    "hip_no": "35",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159171&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 45,
+    "hip_no": "35",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Q7Yrd99ktts&list=PLE2GLfc5ifGA&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 46,
+    "hip_no": "36",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165302&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 47,
+    "hip_no": "36",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=KemB9RBz0aY&list=PLE2GLfc5ifGA&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 48,
+    "hip_no": "37",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156736&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 49,
+    "hip_no": "38",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167852&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 50,
+    "hip_no": "39",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156552&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 51,
+    "hip_no": "40",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164905&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 52,
+    "hip_no": "40",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=4OJ5Rl8qgD0&list=PLQ7yDvp2ZTeM&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 53,
+    "hip_no": "41",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161982&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 54,
+    "hip_no": "41",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=DKQt_i3mH74",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 55,
+    "hip_no": "42",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166681&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 56,
+    "hip_no": "42",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=o3P3AiPm6lk&list=PLJRSw-EueOsk&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 57,
+    "hip_no": "43",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158828&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 58,
+    "hip_no": "44",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168078&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 59,
+    "hip_no": "44",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=BDnW72cQm6o&list=PLOj6pM2tx6C0&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 60,
+    "hip_no": "45",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165161&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 61,
+    "hip_no": "45",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=grl9lLJWrNc&list=PLI7s0xztyZRU&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 62,
+    "hip_no": "46",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168004&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 63,
+    "hip_no": "46",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=9uXDEvRiqss&list=PLJRSw-EueOsk&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 64,
+    "hip_no": "47",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156740&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 65,
+    "hip_no": "48",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159527&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 66,
+    "hip_no": "48",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=H8OUCEWntoE&list=PLQ7yDvp2ZTeM&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 67,
+    "hip_no": "49",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160324&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 68,
+    "hip_no": "49",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=hJ0QjS-26nQ&list=PLL2gs-4HeOuY&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 69,
+    "hip_no": "50",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168474&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 70,
+    "hip_no": "51",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159672&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 71,
+    "hip_no": "52",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168167&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 72,
+    "hip_no": "52",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=jQw8JIsQqDk&list=PLQ7yDvp2ZTeM&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 73,
+    "hip_no": "53",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162482&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 74,
+    "hip_no": "53",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=i_1G9Hz9Iz4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 75,
+    "hip_no": "54",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160327&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 76,
+    "hip_no": "54",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=hujccMbMqX4&list=PLL2gs-4HeOuY&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 77,
+    "hip_no": "55",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158833&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 78,
+    "hip_no": "55",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Tjk7afru6bQ&list=PLL2gs-4HeOuY&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 79,
+    "hip_no": "56",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156741&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 80,
+    "hip_no": "57",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168045&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 81,
+    "hip_no": "57",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=dYhZl_mtM4s&list=PLaS6RXETzPTw&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 82,
+    "hip_no": "58",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158157&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 83,
+    "hip_no": "58",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=-TJQnkosa7E",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 84,
+    "hip_no": "59",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161255&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 85,
+    "hip_no": "59",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=YsBS-ncWCIs&list=PLE2GLfc5ifGA&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 86,
+    "hip_no": "60",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159040&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 87,
+    "hip_no": "60",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=tww1dRHyqOo&list=PLOpdQKbg1o_A&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 88,
+    "hip_no": "61",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159177&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 89,
+    "hip_no": "62",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161645&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 90,
+    "hip_no": "62",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=KzGHcRIIjKg&list=PLI7s0xztyZRU&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 91,
+    "hip_no": "63",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167305&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 92,
+    "hip_no": "63",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=iwRkwW-YHhE&list=PLbhMaCt-i5F4&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 93,
+    "hip_no": "64",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159038&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 94,
+    "hip_no": "64",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=XlVo7zvcATw&list=PLOpdQKbg1o_A&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 95,
+    "hip_no": "65",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160952&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 96,
+    "hip_no": "66",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166974&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 97,
+    "hip_no": "67",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168751&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 98,
+    "hip_no": "68",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168710&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 99,
+    "hip_no": "69",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159854&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 100,
+    "hip_no": "70",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165162&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 101,
+    "hip_no": "70",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=YLHypFt7v7g&list=PLI7s0xztyZRU&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 102,
+    "hip_no": "71",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156754&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 103,
+    "hip_no": "72",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167594&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 104,
+    "hip_no": "73",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161735&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 105,
+    "hip_no": "73",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=xfPPo7Wpnd8&list=PLJRSw-EueOsk&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 106,
+    "hip_no": "74",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164690&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 107,
+    "hip_no": "74",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=StWSK1vb3J0",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 108,
+    "hip_no": "75",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168855&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 109,
+    "hip_no": "75",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=vc4tl_S3Zmo&list=PLJRSw-EueOsk&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 110,
+    "hip_no": "76",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167174&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 111,
+    "hip_no": "76",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=SaZ1fLSzjQ4&list=PLJRSw-EueOsk&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 112,
+    "hip_no": "77",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158238&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 113,
+    "hip_no": "78",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159859&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 114,
+    "hip_no": "79",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156082&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 115,
+    "hip_no": "80",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160954&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 116,
+    "hip_no": "81",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162049&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 117,
+    "hip_no": "82",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161189&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 118,
+    "hip_no": "83",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159538&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 119,
+    "hip_no": "85",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158241&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 120,
+    "hip_no": "85",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=fwfnXOczsYg&list=PLL2gs-4HeOuY&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 121,
+    "hip_no": "86",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161646&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 122,
+    "hip_no": "86",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=sjh288k4kUo&list=PLI7s0xztyZRU&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 123,
+    "hip_no": "87",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169032&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 124,
+    "hip_no": "88",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165543&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 125,
+    "hip_no": "88",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=SxBJnl9erpk&list=PLE2GLfc5ifGA&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 126,
+    "hip_no": "89",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168809&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 127,
+    "hip_no": "90",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155067&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 128,
+    "hip_no": "91",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163849&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 129,
+    "hip_no": "91",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ZH5oQjfkDG4&list=PLDNEAiN_opg4&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 130,
+    "hip_no": "92",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158377&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 131,
+    "hip_no": "93",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156509&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 132,
+    "hip_no": "94",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164906&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 133,
+    "hip_no": "94",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=cCbwZRE5ZMA&list=PLQ7yDvp2ZTeM&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 134,
+    "hip_no": "95",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158832&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 135,
+    "hip_no": "95",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=LrdJoL2CwIw&list=PLL2gs-4HeOuY&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 136,
+    "hip_no": "96",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165693&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 137,
+    "hip_no": "96",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=7IPa5lGgVw0&list=PLQ7yDvp2ZTeM&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 138,
+    "hip_no": "97",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164785&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 139,
+    "hip_no": "97",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=HV4CTFSNJXk&list=PLJRSw-EueOsk&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 140,
+    "hip_no": "98",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165109&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 141,
+    "hip_no": "98",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=_SJFWFKv-EE",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 142,
+    "hip_no": "99",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169079&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 143,
+    "hip_no": "99",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=hdhKLTT4ZaQ&list=PLQ7yDvp2ZTeM&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 144,
+    "hip_no": "100",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159359&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 145,
+    "hip_no": "101",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167302&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 146,
+    "hip_no": "101",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=l9B1rVMIDtw&list=PLbhMaCt-i5F4&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 147,
+    "hip_no": "102",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1157449&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 148,
+    "hip_no": "103",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168392&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 149,
+    "hip_no": "104",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161765&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 150,
+    "hip_no": "104",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ZEcvBC621E8&list=PLI7s0xztyZRU&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 151,
+    "hip_no": "105",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166236&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 152,
+    "hip_no": "106",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167309&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 153,
+    "hip_no": "106",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=kKN2C_Vzg5Q&list=PLbhMaCt-i5F4&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 154,
+    "hip_no": "107",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163851&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 155,
+    "hip_no": "107",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ANUcOOts6GA&list=PLDNEAiN_opg4&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 156,
+    "hip_no": "108",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167050&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 157,
+    "hip_no": "109",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158158&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 158,
+    "hip_no": "109",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=GmPI1zyTW6U&list=PLQ7yDvp2ZTeM&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 159,
+    "hip_no": "110",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159549&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 160,
+    "hip_no": "111",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167314&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 161,
+    "hip_no": "111",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=DkIc83NiuCA&list=PLbhMaCt-i5F4&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 162,
+    "hip_no": "112",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156931&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 163,
+    "hip_no": "113",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162047&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 164,
+    "hip_no": "114",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166287&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 165,
+    "hip_no": "114",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=hKls0ZYSTb8&list=PLE2GLfc5ifGA&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 166,
+    "hip_no": "115",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161656&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 167,
+    "hip_no": "115",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=mDLtUXatSWw&list=PLI7s0xztyZRU&index=10",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 168,
+    "hip_no": "116",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164697&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 169,
+    "hip_no": "116",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=jNRZwWb5vOU",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 170,
+    "hip_no": "117",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155984&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 171,
+    "hip_no": "118",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161654&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 172,
+    "hip_no": "118",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=YafKkSPdKuY&list=PLI7s0xztyZRU&index=11",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 173,
+    "hip_no": "119",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169216&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 174,
+    "hip_no": "119",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=-K8Wtg2JexM&list=PLE2GLfc5ifGA&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 175,
+    "hip_no": "120",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156001&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 176,
+    "hip_no": "121",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155327&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 177,
+    "hip_no": "123",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162989&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 178,
+    "hip_no": "123",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=yoybL8G2Ci4&list=PLRnkHLexJeyQ&index=1",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 179,
+    "hip_no": "124",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160185&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 180,
+    "hip_no": "125",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167316&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 181,
+    "hip_no": "125",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=_kxpaK_nenc",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 182,
+    "hip_no": "126",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156480&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 183,
+    "hip_no": "127",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165301&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 184,
+    "hip_no": "127",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=BYCiz9loN9w&list=PLE2GLfc5ifGA&index=10",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 185,
+    "hip_no": "128",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161650&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 186,
+    "hip_no": "128",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=wu7H2725sDo&list=PLI7s0xztyZRU&index=12",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 187,
+    "hip_no": "129",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167597&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 188,
+    "hip_no": "130",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165708&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 189,
+    "hip_no": "130",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=NK66h5rZAvI&list=PLE2GLfc5ifGA&index=11",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 190,
+    "hip_no": "131",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163843&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 191,
+    "hip_no": "131",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=DLmis7EaOwc&list=PLDNEAiN_opg4&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 192,
+    "hip_no": "133",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161734&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 193,
+    "hip_no": "133",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=MnKv3VvMUdc&list=PLJRSw-EueOsk&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 194,
+    "hip_no": "134",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162033&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 195,
+    "hip_no": "135",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160949&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 196,
+    "hip_no": "136",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162053&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 197,
+    "hip_no": "136",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=g7HEa_th25Q&list=PLRnkHLexJeyQ&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 198,
+    "hip_no": "137",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162046&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 199,
+    "hip_no": "138",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168299&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 200,
+    "hip_no": "138",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=NGDyiBu7UfM",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 201,
+    "hip_no": "139",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167306&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 202,
+    "hip_no": "139",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=DVH_zerqrPI&list=PLbhMaCt-i5F4&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 203,
+    "hip_no": "140",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159766&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 204,
+    "hip_no": "141",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156735&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 205,
+    "hip_no": "142",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168048&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 206,
+    "hip_no": "143",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164692&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 207,
+    "hip_no": "143",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=1qMEaoSNQt8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 208,
+    "hip_no": "144",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165295&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 209,
+    "hip_no": "144",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=lSvAO8LW2sA&list=PLWwtTji4hY7E&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 210,
+    "hip_no": "145",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156968&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 211,
+    "hip_no": "146",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1157406&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 212,
+    "hip_no": "147",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164159&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 213,
+    "hip_no": "147",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=bLelG8g6cSY&list=PLL2gs-4HeOuY&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 214,
+    "hip_no": "148",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165299&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 215,
+    "hip_no": "148",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=5YvP2fAXwcA&list=PLE2GLfc5ifGA&index=12",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 216,
+    "hip_no": "149",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167317&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 217,
+    "hip_no": "149",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=d6Pmj4shAeI&list=PLbhMaCt-i5F4&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 218,
+    "hip_no": "150",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1157548&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 219,
+    "hip_no": "151",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164789&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 220,
+    "hip_no": "151",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=u8sC-rs_zmA&list=PLOj6pM2tx6C0&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 221,
+    "hip_no": "152",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159495&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 222,
+    "hip_no": "153",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158761&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 223,
+    "hip_no": "154",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159988&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 224,
+    "hip_no": "155",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166680&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 225,
+    "hip_no": "155",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=0eGEiawRfNM&list=PLWwtTji4hY7E&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 226,
+    "hip_no": "156",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165275&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 227,
+    "hip_no": "156",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=dSW3kTB5CNw&list=PLE2GLfc5ifGA&index=13",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 228,
+    "hip_no": "157",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166826&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 229,
+    "hip_no": "157",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ex0bYmoX28c&list=PLRnkHLexJeyQ&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 230,
+    "hip_no": "158",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159989&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 231,
+    "hip_no": "159",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168890&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 232,
+    "hip_no": "159",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=UFqvQlkmNMg&list=PLQ7yDvp2ZTeM&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 233,
+    "hip_no": "160",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166591&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 234,
+    "hip_no": "160",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=P3fMypuR9BU&list=PLQ7yDvp2ZTeM&index=10",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 235,
+    "hip_no": "161",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164918&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 236,
+    "hip_no": "162",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159536&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 237,
+    "hip_no": "163",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167315&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 238,
+    "hip_no": "163",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=wY9uKSp9afs&list=PLbhMaCt-i5F4&index=10",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 239,
+    "hip_no": "164",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160067&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 240,
+    "hip_no": "165",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165537&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 241,
+    "hip_no": "165",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=lOn5T04hUvY&list=PLE2GLfc5ifGA&index=14",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 242,
+    "hip_no": "166",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167783&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 243,
+    "hip_no": "166",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=RGmEo5l8XWw&list=PLI7s0xztyZRU&index=13",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 244,
+    "hip_no": "167",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161254&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 245,
+    "hip_no": "167",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=F5V1Cjm93Cs&list=PLWwtTji4hY7E&index=5",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 246,
+    "hip_no": "168",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164616&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 247,
+    "hip_no": "168",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=VXugqJzDHQA&list=PLE2GLfc5ifGA&index=15",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 248,
+    "hip_no": "169",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161854&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 249,
+    "hip_no": "169",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=3NsvY51yCYQ&list=PLJRSw-EueOsk&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 250,
+    "hip_no": "170",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165131&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 251,
+    "hip_no": "170",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=7FEspmVDHvs&list=PLWwtTji4hY7E&index=6",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 252,
+    "hip_no": "171",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161653&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 253,
+    "hip_no": "171",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=OaLBAThls34&list=PLQ7yDvp2ZTeM&index=11",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 254,
+    "hip_no": "172",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160841&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 255,
+    "hip_no": "173",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168717&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 256,
+    "hip_no": "174",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158235&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 257,
+    "hip_no": "175",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160965&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 258,
+    "hip_no": "176",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162885&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 259,
+    "hip_no": "177",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167303&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 260,
+    "hip_no": "177",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=b0MbxzWRij4&list=PLbhMaCt-i5F4&index=11",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 261,
+    "hip_no": "178",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164577&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 262,
+    "hip_no": "178",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=JetqBuMIUvc&list=PLE2GLfc5ifGA&index=16",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 263,
+    "hip_no": "179",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164925&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 264,
+    "hip_no": "179",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=CPo7xwjJ5Oo",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 265,
+    "hip_no": "180",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164938&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 266,
+    "hip_no": "181",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161644&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 267,
+    "hip_no": "181",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=TnrxdO01XKs&list=PLI7s0xztyZRU&index=14",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 268,
+    "hip_no": "182",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161764&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 269,
+    "hip_no": "182",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=zwKZYCarpYI&list=PLI7s0xztyZRU&index=15",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 270,
+    "hip_no": "183",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165300&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 271,
+    "hip_no": "183",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=7eCee-aPXVw&list=PLE2GLfc5ifGA&index=17",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 272,
+    "hip_no": "184",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167304&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 273,
+    "hip_no": "184",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=t80DdGJBU14&list=PLbhMaCt-i5F4&index=12",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 274,
+    "hip_no": "185",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164691&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 275,
+    "hip_no": "185",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=uJIzunz6LEc",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 276,
+    "hip_no": "186",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168891&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 277,
+    "hip_no": "186",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=N7LYSI6NmAI&list=PLQ7yDvp2ZTeM&index=12",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 278,
+    "hip_no": "187",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1157407&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 279,
+    "hip_no": "188",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158010&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 280,
+    "hip_no": "189",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158766&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 281,
+    "hip_no": "190",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166998&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 282,
+    "hip_no": "191",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169215&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 283,
+    "hip_no": "191",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=6C4raKjmeY4&list=PLE2GLfc5ifGA&index=18",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 284,
+    "hip_no": "192",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160749&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 285,
+    "hip_no": "193",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155512&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 286,
+    "hip_no": "194",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164689&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 287,
+    "hip_no": "194",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=pSFwa7EgoKA",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 288,
+    "hip_no": "195",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156069&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 289,
+    "hip_no": "196",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161737&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 290,
+    "hip_no": "196",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=RlY7Bd0UjKE&list=PLJRSw-EueOsk&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 291,
+    "hip_no": "197",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162052&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 292,
+    "hip_no": "198",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162348&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 293,
+    "hip_no": "199",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165306&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 294,
+    "hip_no": "199",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=iWtvyk4SZh4&list=PLE2GLfc5ifGA&index=19",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 295,
+    "hip_no": "200",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161647&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 296,
+    "hip_no": "200",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=KBKrOR1O6a4&list=PLI7s0xztyZRU&index=16",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 297,
+    "hip_no": "201",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161652&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 298,
+    "hip_no": "201",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=9FAXnnhhlA0&list=PLI7s0xztyZRU&index=17",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 299,
+    "hip_no": "202",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162485&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 300,
+    "hip_no": "202",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=4GrrRMVBLQM&list=PLQ7yDvp2ZTeM&index=13",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 301,
+    "hip_no": "203",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164694&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 302,
+    "hip_no": "203",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=NXA1IK3cFXk",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 303,
+    "hip_no": "204",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166971&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 304,
+    "hip_no": "205",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168808&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 305,
+    "hip_no": "206",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167307&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 306,
+    "hip_no": "207",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1155083&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 307,
+    "hip_no": "209",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164908&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 308,
+    "hip_no": "209",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=mVHRTenLUtI&list=PLQ7yDvp2ZTeM&index=14",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 309,
+    "hip_no": "210",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168754&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 310,
+    "hip_no": "211",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169112&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 311,
+    "hip_no": "212",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165703&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 312,
+    "hip_no": "212",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=LXXG7_X0_RU&list=PLE2GLfc5ifGA&index=20",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 313,
+    "hip_no": "213",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158240&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 314,
+    "hip_no": "213",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ApLsZNNo5vA&list=PLL2gs-4HeOuY&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 315,
+    "hip_no": "214",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167561&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 316,
+    "hip_no": "214",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=BIp0RMcZwzo",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 317,
+    "hip_no": "215",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164909&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 318,
+    "hip_no": "215",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=1JEzsaVN3mY&list=PLQ7yDvp2ZTeM&index=15",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 319,
+    "hip_no": "216",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167754&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 320,
+    "hip_no": "216",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=vlQO3qe9sJY&list=PLJRSw-EueOsk&index=10",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 321,
+    "hip_no": "217",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166979&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 322,
+    "hip_no": "218",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166997&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 323,
+    "hip_no": "219",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166985&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 324,
+    "hip_no": "220",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168711&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 325,
+    "hip_no": "221",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167308&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 326,
+    "hip_no": "221",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=6lBMEyQqfIg&list=PLbhMaCt-i5F4&index=13",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 327,
+    "hip_no": "222",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165539&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 328,
+    "hip_no": "222",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=aE3RuoDmG70&list=PLE2GLfc5ifGA&index=21",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 329,
+    "hip_no": "223",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165535&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 330,
+    "hip_no": "223",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=5kA6OkNoXTA&list=PLE2GLfc5ifGA&index=22",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 331,
+    "hip_no": "224",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161643&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 332,
+    "hip_no": "224",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=ao7fEnfJZxI&list=PLI7s0xztyZRU&index=18",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 333,
+    "hip_no": "225",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164618&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 334,
+    "hip_no": "225",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=4-vJL9lMSCs&list=PLJRSw-EueOsk&index=11",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 335,
+    "hip_no": "226",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159035&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 336,
+    "hip_no": "226",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=X8I3k0HrzFM&list=PLOpdQKbg1o_A&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 337,
+    "hip_no": "227",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161658&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 338,
+    "hip_no": "227",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=_4c_0S5WQAU&list=PLI7s0xztyZRU&index=19",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 339,
+    "hip_no": "228",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165776&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 340,
+    "hip_no": "228",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=QZ1XYpFbwU4&list=PLE2GLfc5ifGA&index=23",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 341,
+    "hip_no": "229",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162032&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 342,
+    "hip_no": "229",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=asOpwxC3gLA&list=PLQ7yDvp2ZTeM&index=16",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 343,
+    "hip_no": "230",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165637&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 344,
+    "hip_no": "230",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=FGcCK_g7zs4&list=PLWwtTji4hY7E&index=7",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 345,
+    "hip_no": "231",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168709&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 346,
+    "hip_no": "232",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162483&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 347,
+    "hip_no": "232",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=fwelJIZp320&list=PLQ7yDvp2ZTeM&index=17",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 348,
+    "hip_no": "233",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159537&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 349,
+    "hip_no": "234",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156501&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 350,
+    "hip_no": "235",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159918&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 351,
+    "hip_no": "236",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156046&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 352,
+    "hip_no": "237",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163845&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 353,
+    "hip_no": "237",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=nOuDpNyL45s&list=PLDNEAiN_opg4&index=4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 354,
+    "hip_no": "238",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156832&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 355,
+    "hip_no": "239",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169213&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 356,
+    "hip_no": "239",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=H34yGD82Lz8&list=PLE2GLfc5ifGA&index=24",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 357,
+    "hip_no": "240",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165710&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 358,
+    "hip_no": "240",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=bskeFmDe3eI&list=PLE2GLfc5ifGA&index=25",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 359,
+    "hip_no": "241",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167596&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 360,
+    "hip_no": "242",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161648&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 361,
+    "hip_no": "242",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=IDSTDlga5GA&list=PLI7s0xztyZRU&index=20",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 362,
+    "hip_no": "243",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156757&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 363,
+    "hip_no": "244",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159289&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 364,
+    "hip_no": "244",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=dX7chYbiCig&list=PLE2GLfc5ifGA&index=26",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 365,
+    "hip_no": "245",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165536&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 366,
+    "hip_no": "245",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=dJLrup9i8Ls&list=PLE2GLfc5ifGA&index=27",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 367,
+    "hip_no": "246",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161642&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 368,
+    "hip_no": "246",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=m1cPN_Lt-i4&list=PLI7s0xztyZRU&index=21",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 369,
+    "hip_no": "247",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166981&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 370,
+    "hip_no": "247",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=9FPp4wVj41A&list=PLaS6RXETzPTw&index=2",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 371,
+    "hip_no": "248",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167782&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 372,
+    "hip_no": "249",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166992&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 373,
+    "hip_no": "250",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167716&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 374,
+    "hip_no": "250",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=9jlJvEhOw_Y&list=PLQ7yDvp2ZTeM&index=18",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 375,
+    "hip_no": "251",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167593&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 376,
+    "hip_no": "252",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161655&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 377,
+    "hip_no": "252",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=pTE6V9n3dpg&list=PLI7s0xztyZRU&index=22",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 378,
+    "hip_no": "253",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1169010&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 379,
+    "hip_no": "254",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162289&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 380,
+    "hip_no": "254",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Uy4mtN9cvL0&list=PLI7s0xztyZRU&index=23",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 381,
+    "hip_no": "255",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164912&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 382,
+    "hip_no": "255",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=l-REAXYin3A&list=PLQ7yDvp2ZTeM&index=19",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 383,
+    "hip_no": "256",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166978&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 384,
+    "hip_no": "257",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1166378&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 385,
+    "hip_no": "257",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=-2gbjaiETSE",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 386,
+    "hip_no": "258",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160182&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 387,
+    "hip_no": "258",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=KLIEpUq5Jbs&list=PLWwtTji4hY7E&index=8",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 388,
+    "hip_no": "259",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158488&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 389,
+    "hip_no": "260",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1163991&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 390,
+    "hip_no": "260",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=0wduN3-YEfk&list=PLOj6pM2tx6C0&index=3",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 391,
+    "hip_no": "261",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164693&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 392,
+    "hip_no": "261",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=k2cQ3Z5ypnA",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 393,
+    "hip_no": "262",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165296&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 394,
+    "hip_no": "262",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Rlt5eiw_J8g&list=PLE2GLfc5ifGA&index=28",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 395,
+    "hip_no": "263",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164695&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 396,
+    "hip_no": "263",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=r5UgHf940r4",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 397,
+    "hip_no": "264",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164696&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 398,
+    "hip_no": "264",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=a5YxG_cddTs",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 399,
+    "hip_no": "265",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162481&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 400,
+    "hip_no": "265",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=NXm8TOCXKbQ",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 401,
+    "hip_no": "266",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1159294&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 402,
+    "hip_no": "267",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161649&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 403,
+    "hip_no": "267",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=4Abs1I4zKuo&list=PLI7s0xztyZRU&index=24",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 404,
+    "hip_no": "268",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1162588&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 405,
+    "hip_no": "268",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=QksbFI4amNU&list=PLQ7yDvp2ZTeM&index=20",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 406,
+    "hip_no": "269",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1158239&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 407,
+    "hip_no": "269",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=MlBWLqvrnJw&list=PLL2gs-4HeOuY&index=9",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 408,
+    "hip_no": "270",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168952&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 409,
+    "hip_no": "270",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=xUUgrDWwm3U&list=PLE2GLfc5ifGA&index=29",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 410,
+    "hip_no": "271",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161657&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 411,
+    "hip_no": "271",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=h6AttmzClVc&list=PLI7s0xztyZRU&index=25",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 412,
+    "hip_no": "272",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1165701&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 413,
+    "hip_no": "272",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=b02Y29QIVWY&list=PLE2GLfc5ifGA&index=30",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 414,
+    "hip_no": "273",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160934&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 415,
+    "hip_no": "274",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1161104&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 416,
+    "hip_no": "274",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=Jog-Ryccg8g&list=PLE2GLfc5ifGA&index=31",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 417,
+    "hip_no": "275",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168002&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 418,
+    "hip_no": "275",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=iw8LmV36TXw&list=PLJRSw-EueOsk&index=12",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 419,
+    "hip_no": "276",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167326&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 420,
+    "hip_no": "276",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=hCwj_WU1jbY&list=PLbhMaCt-i5F4&index=14",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 421,
+    "hip_no": "278",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1160930&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 422,
+    "hip_no": "279",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168003&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 423,
+    "hip_no": "279",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=eLOiD76f7ns&list=PLJRSw-EueOsk&index=13",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 424,
+    "hip_no": "280",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1168077&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 425,
+    "hip_no": "281",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1164630&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 426,
+    "hip_no": "283",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167207&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 427,
+    "hip_no": "283",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=fAWwm7tzbys&list=PLbhMaCt-i5F4&index=15",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 428,
+    "hip_no": "284",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1167201&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 429,
+    "hip_no": "284",
+    "type": "LINK",
+    "label": "Video",
+    "text": "https://www.youtube.com/watch?v=PxB4ErluB5c&list=PLbhMaCt-i5F4&index=16",
+    "seq": 2,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  },
+  {
+    "id": 430,
+    "hip_no": "285",
+    "type": "LINK",
+    "label": "TrackIT",
+    "text": "https://trackit.standardbredcanada.ca/?op=SALEPED&id=1156034&type=SALEPED&ps=Y&since=2026-08-04",
+    "seq": 1,
+    "source": "link_file",
+    "created_at": "2026-09-30T19:02:32.625Z"
+  }
+]

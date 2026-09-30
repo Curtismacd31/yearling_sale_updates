@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>London Classic Yearling Sale Tool</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>London Classic Yearling Sale Tool</h1>
+    <div class="topbar-right">
+      <span id="whoami"></span>
+      <button id="logoutBtn" class="link-btn">Log out</button>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-panel="panel-roster">1. Load Roster</button>
+    <button class="tab-btn" data-panel="panel-updates">2. Updates</button>
+    <button class="tab-btn" data-panel="panel-saleday">3. Sale Day</button>
+    <button class="tab-btn" data-panel="panel-submit">Submit to Equiline</button>
+  </nav>
+
+  <main>
+    <!-- PANEL 1: LOAD ROSTER -->
+    <section id="panel-roster" class="panel active">
+      <h2>Load Roster</h2>
+
+      <div class="card">
+        <h3>Bulk load (CSV)</h3>
+        <p class="hint">Header row: <code>hip_no,yearling_name,sire,dam,consignor,video_url,trackit_url,pedigree_url</code>. The official Equineline catalog export (hip_number, horse_name, sire_name, dam_name, consignor_name, ...) is auto-detected too — just upload it as-is. Re-loading an updated sheet safely updates existing hips by hip number — nothing gets duplicated.</p>
+        <textarea id="csvInput" rows="8" placeholder="hip_no,yearling_name,sire,dam,consignor,video_url,trackit_url,pedigree_url
+1,Beautiful Choice,Super Istana,Bliss,Smith Farms,https://...,https://...,https://..."></textarea>
+        <div class="row">
+          <input type="file" id="csvFile" accept=".csv,text/csv">
+          <button id="csvLoadBtn">Load CSV</button>
+        </div>
+        <p id="csvResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3 id="manualFormTitle">Manual entry (one at a time)</h3>
+        <p id="editingNote" class="hint" hidden>Editing hip <strong id="editingHipLabel"></strong> — <button type="button" id="cancelEditBtn" class="link-btn">cancel</button></p>
+        <form id="manualForm" class="grid-form">
+          <input type="hidden" name="editingId" id="editingId" value="">
+          <label>Hip # <input name="hip_no" required></label>
+          <label>Yearling Name <input name="yearling_name"></label>
+          <label>Sire <input name="sire"></label>
+          <label>Dam <input name="dam"></label>
+          <label>Consignor <input name="consignor"></label>
+          <label>Sex <input name="sex"></label>
+          <label>Video URL <input name="video_url" type="url" placeholder="https://..."></label>
+          <label>Trackit URL <input name="trackit_url" type="url" placeholder="https://..."></label>
+          <label>Pedigree URL <input name="pedigree_url" type="url" placeholder="https://..."></label>
+          <button type="submit" id="manualSubmitBtn">Add Hip</button>
+        </form>
+        <p id="manualResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Current Roster (<span id="rosterCount">0</span>)</h3>
+        <div class="filter-bar">
+          <input type="text" id="rosterSearch" placeholder="Search name, sire, dam, consignor…">
+          <select id="rosterSexFilter"><option value="">All sexes</option></select>
+          <label class="checkbox"><input type="checkbox" id="rosterHideOut"> Hide withdrawn</label>
+          <span class="filter-count" id="rosterFilterCount"></span>
+        </div>
+        <table id="rosterTable" class="data-table">
+          <thead>
+            <tr><th>Hip</th><th>Yearling</th><th>Sire</th><th>Dam</th><th>Sex</th><th>Consignor</th><th>Links</th><th>Status</th><th></th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- PANEL 2: UPDATES -->
+    <section id="panel-updates" class="panel">
+      <h2>Updates</h2>
+
+      <div class="card">
+        <h3>Bulk load updates (CSV)</h3>
+        <p class="hint">Equiline's content file — header <code>sale_company,sale_company_key,sale_id,hip_number,sequence,content_type,content,content_label</code>. Loads each hip's LINK (TrackIT, Video) and UPDATE lines, and marks WITHDRAWN hips out. Load it after the roster. Each load replaces the previous bulk load; updates added by hand below are kept.</p>
+        <textarea id="bulkUpdatesInput" rows="6" placeholder="sale_company,sale_company_key,sale_id,hip_number,sequence,content_type,content,content_label"></textarea>
+        <div class="row">
+          <input type="file" id="bulkUpdatesFile" accept=".csv,text/csv">
+          <button id="bulkUpdatesBtn">Load Updates</button>
+        </div>
+        <p id="bulkUpdatesResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Add an update</h3>
+        <form id="updateForm" class="row">
+          <select id="updateHipSelect" required></select>
+          <input id="updateText" placeholder="e.g. chips removed from hock." required style="flex:1">
+          <button type="submit">Add Update</button>
+        </form>
+        <p id="updateResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Mark a yearling OUT</h3>
+        <form id="outForm" class="row">
+          <select id="outHipSelect" required></select>
+          <input id="outReason" placeholder="reason (optional)" style="flex:1">
+          <button type="submit">Move to Outs List</button>
+        </form>
+        <p id="outResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Outs List</h3>
+        <table id="outsTable" class="data-table">
+          <thead><tr><th>Hip</th><th>Name</th><th>Reason</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="card">
+        <h3>All Updates Entered</h3>
+        <table id="updatesTable" class="data-table">
+          <thead><tr><th>Hip</th><th>Type</th><th>Label</th><th>Text</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- PANEL 3: SALE DAY -->
+    <section id="panel-saleday" class="panel">
+      <h2>Sale Day — Results</h2>
+      <p class="hint">Enter the winning bidder and price as each hip sells, or mark RNA / Withdrawn.</p>
+      <table id="saledayTable" class="data-table">
+        <thead>
+          <tr><th>Hip</th><th>Name</th><th>Sire</th><th>Dam</th><th>Status</th><th>Price</th><th>Buyer</th><th>Save</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <!-- SUBMIT PANEL -->
+    <section id="panel-submit" class="panel">
+      <h2>Submit to Equiline</h2>
+
+      <div class="card">
+        <h3>Sale Info</h3>
+        <form id="configForm" class="grid-form">
+          <label>Sale Company <input name="saleCompany" required></label>
+          <label>Sale Company Key <input name="saleCompanyKey" required></label>
+          <label>Sale ID <input name="saleId" required></label>
+          <button type="submit">Save Sale Info</button>
+        </form>
+        <p id="configResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Preview &amp; Send</h3>
+        <p class="hint">This always sends the full aggregate of every hip's updates, results and links — per Equiline's requirement — not just what changed since the last send.</p>
+        <div class="row">
+          <button id="previewBtn">Preview XML</button>
+          <button id="sendBtn" class="primary">Submit Data</button>
+        </div>
+        <pre id="xmlPreview" class="xml-preview" hidden></pre>
+        <p id="submitResult" class="result"></p>
+      </div>
+
+      <div class="card">
+        <h3>Submission History</h3>
+        <table id="historyTable" class="data-table">
+          <thead><tr><th>Sent</th><th>Status</th><th>OK?</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="/js/api.js"></script>
+  <script src="/js/panelRoster.js"></script>
+  <script src="/js/panelUpdates.js"></script>
+  <script src="/js/panelSaleday.js"></script>
+  <script src="/js/panelSubmit.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>
